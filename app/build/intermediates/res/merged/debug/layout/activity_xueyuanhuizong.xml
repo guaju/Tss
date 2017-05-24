@@ -1,0 +1,111 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/classname"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#F6002E"
+        android:gravity="center_vertical"
+        >
+
+        <TextView
+            android:id="@+id/xueyuan_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+         	android:layout_centerInParent="true"
+            android:text="移动通信"
+            android:textColor="#000"
+            android:textSize="25sp" />
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:onClick="fanhui"
+            android:src="@drawable/arrow_back_hl" />
+
+        <ImageView
+            android:id="@+id/sandian"
+            android:layout_width="25dp"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/dian"/>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/date_ll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="5dp" >
+      		
+		<FrameLayout 
+		     android:id="@+id/date_left"
+		    android:layout_marginLeft="5dp"
+		    android:layout_width="40dp"
+		    android:layout_height="40dp">
+        <ImageView
+            android:layout_gravity="center"
+           
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/left" />
+		</FrameLayout>
+        <TextView
+            android:layout_marginLeft="5dp"
+            android:id="@+id/tv_date1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:text="选择时间" />
+        <TextView 
+            android:id="@+id/tv_date2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:text=""/>
+	<FrameLayout
+	    android:id="@+id/date_right"
+	    android:layout_marginLeft="5dp" 
+	    android:layout_width="40dp"
+	    android:layout_height="40dp">
+        <ImageView
+            android:layout_gravity="center"
+          
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/right" />
+        </FrameLayout>
+         <View
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+        <TextView 
+            android:gravity="center"
+            android:layout_marginLeft="15dp"
+            android:id="@+id/date_but"
+            android:layout_marginRight="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="选择时间"/>
+
+       
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/fl_id"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_weight="1" >
+    </FrameLayout>
+
+</LinearLayout>

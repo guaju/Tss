@@ -1,0 +1,122 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/u"
+    tools:context=".LoginActivity" >
+
+      <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/timg" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView1"
+        android:layout_centerHorizontal="true"
+        android:text="教务管理系统"
+        android:textColor="#080FE0"
+        android:textSize="28sp" />
+
+    <LinearLayout
+        android:id="@+id/ll_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="250dp"
+        android:orientation="vertical"
+        android:padding="5dp" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="用户名:"
+                android:textColor="#080FE0"
+                android:textSize="18sp" />
+
+            <EditText
+                android:id="@+id/et_login_name"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/login_frame_shape"
+                android:hint="请输入用户名"
+                android:padding="3dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="密    码:"
+                android:textColor="#080FE0"
+                android:textSize="18sp" />
+
+            <EditText
+                android:id="@+id/et_login_password"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:password="true"
+                android:background="@drawable/login_frame_shape"
+                android:hint="请输入密码"
+                android:padding="3dp" />
+        </LinearLayout>
+        <LinearLayout 
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:clickable="true"
+            android:onClick="rememberusername"
+            >
+            <CheckBox
+                style="@android:style/Widget.CompoundButton.CheckBox" 
+                android:id="@+id/id_cb"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:clickable="false"
+                />
+            <TextView 
+                android:layout_marginLeft="10dp"
+                android:id="@+id/id_remember"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="记住密码"
+                android:textColor="#8000"
+                android:textSize="18sp"
+                />
+        </LinearLayout>
+        
+    </LinearLayout>
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_below="@id/ll_login"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:background="#7fD6F0F0"
+        android:text="登录"
+        android:onClick="login"
+        android:textSize="22sp"
+        android:textColor="#080FE0" />
+
+</RelativeLayout>

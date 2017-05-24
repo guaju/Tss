@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/anim/viewtranslate.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/anim/viewtranslate.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/anim/list_anim_right_to_left.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/anim/list_anim_right_to_left.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/anim/scalechange.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/anim/scalechange.xml"
+    }
+]

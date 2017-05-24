@@ -1,0 +1,37 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/id_ll_xuanzechaxun"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    >
+	<TextView 
+	    android:layout_marginTop="30dp"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="请选择你要查询的数据类型："
+	    android:textSize="19sp"
+	    />
+    
+    <Button
+        android:onClick="tongjishuju"
+        android:layout_marginTop="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/tongjishujuyuan"
+        android:text="统计数据" 
+        android:textSize="21sp"
+        />
+
+    <Button
+        android:onClick="xiangxishuju"
+        android:layout_marginTop="15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/xiangxishujuyuan"
+        android:text="详细数据" 
+        android:textSize="21sp"
+        />
+
+</LinearLayout>

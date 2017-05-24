@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+   
+    <TextView
+        android:id="@+id/tv_weijirenming"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="违纪人名：0人"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/tv_wjqk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="违纪情况："
+        android:textSize="15sp" />
+
+</LinearLayout>

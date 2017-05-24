@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="us.mifeng.bubaexaminationsystem.activity"
+    android:versionCode="3"
+    android:versionName="1.4.7" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="18" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/timg"
+        android:label="@string/app_name"
+        android:name="us.mifeng.bubaexaminationsystem.app.PublicApplication"
+        android:theme="@android:style/Theme.Light.NoTitleBar" >
+        <activity
+            android:name="us.mifeng.bubaexaminationsystem.activity.SplashActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="us.mifeng.bubaexaminationsystem.activity.XueYuanHuiZong_Activity"
+			android:configChanges="orientation|keyboardHidden|screenSize"        
+            >
+        </activity>
+        <activity android:name="us.mifeng.bubaexaminationsystem.activity.ClassOverall_Activity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            ></activity>
+        <activity android:name="us.mifeng.bubaexaminationsystem.activity.ClassInput_Activity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            ></activity>
+        <activity android:name="us.mifeng.bubaexaminationsystem.activity.DangeXuesheng"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            ></activity>
+            
+        <activity android:name="us.mifeng.bubaexaminationsystem.activity.DangeXuesheng_Activity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            >
+        </activity>
+        <activity android:name="us.mifeng.bubaexaminationsystem.activity.Grade_Activity"
+          android:configChanges="orientation|keyboardHidden|screenSize"
+            ></activity>
+        <activity android:name="us.mifeng.bubaexaminationsystem.activity.LoginActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            ></activity>
+        <activity android:name="us.mifeng.bubaexaminationsystem.activity.SearchChoiceCollage_Activity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            ></activity>
+        <activity android:name="us.mifeng.bubaexaminationsystem.activity.InputCollageChoice_Activity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            ></activity>
+   		<activity android:name="us.mifeng.bubaexaminationsystem.activity.InputQuery_Activity"
+   		    android:configChanges="orientation|keyboardHidden|screenSize"
+   		    ></activity>
+   		<activity android:name="us.mifeng.bubaexaminationsystem.activity.RiWeiJi_Activity"
+   		    android:configChanges="orientation|keyboardHidden|screenSize"
+   		    ></activity>
+   		<activity android:name="us.mifeng.bubaexaminationsystem.activity.ZhouActivity"
+   		    android:configChanges="orientation|keyboardHidden|screenSize"
+   		    ></activity>
+   		<activity android:name="us.mifeng.bubaexaminationsystem.activity.YueHuiZong_Activity"
+   		    android:configChanges="orientation|keyboardHidden|screenSize"
+   		    ></activity>
+   		<activity android:name="us.mifeng.bubaexaminationsystem.view.LinechartAcitvity"
+   		    android:configChanges="orientation|keyboardHidden|screenSize"
+   		    ></activity>
+   		<activity android:name="us.mifeng.bubaexaminationsystem.view.BarChartActivity"
+   		    android:configChanges="orientation|keyboardHidden|screenSize"
+   		    ></activity>
+   		<activity android:name="us.mifeng.bubaexaminationsystem.activity.WeiJiOfWeek"
+   		    android:configChanges="orientation|keyboardHidden|screenSize"
+   		    ></activity>
+   		<activity android:name="us.mifeng.bubaexaminationsystem.activity.WeiJiOfDay"
+   		    android:configChanges="orientation|keyboardHidden|screenSize"
+   		    ></activity>
+   		<activity android:name="us.mifeng.bubaexaminationsystem.activity.TeacherActivity"
+   		    android:configChanges="orientation|keyboardHidden|screenSize"
+   		    ></activity>
+   		<activity android:name="us.mifeng.bubaexaminationsystem.activity.CollegeTeachersActivity"
+   		    android:configChanges="orientation|keyboardHidden|screenSize"
+   		    ></activity>
+        </application>
+
+</manifest>

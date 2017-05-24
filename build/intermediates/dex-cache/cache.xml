@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ed22c06d84a7410c180685d81d6180d02c81d156">
+        <dex dex="/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_39d7dedec48dabcb8d0b5bcb3631a1b034f17b09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4cf2fd600c8f130e2ee93ecd15e1f8f7d90899b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/041b7b660aa1d920ccef8363eeee2784aaeccf3f/output/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_66c19cde561b93fb3f6795fcbe59e12be640b60a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/AndroidStudioProjects/bubamanager22/app/libs/library-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/transforms/dex/debug/folders/1000/2/library-1.0.19_cb99e8253df1f27072e4f759631a1f9cf3dc8f87/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/AndroidStudioProjects/bubamanager22/app/libs/android-async-http-1.4.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="77bbfe240e437ecb396d982afa0d3bd4f9090ba7">
+        <dex dex="/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-async-http-1.4.8_368a9570f3e1adc52a1d945de22cb34b20367fd3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/AndroidStudioProjects/bubamanager22/app/libs/mpandroidchartlibrary-2-2-4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e5455fb794bfcbeb75da252dffd907794614f7fd">
+        <dex dex="/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/transforms/dex/debug/folders/1000/2/mpandroidchartlibrary-2-2-4_aebd8c69f0f15bd914400d24766b7ab8192042f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/041b7b660aa1d920ccef8363eeee2784aaeccf3f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e4fabd8b8e383ab92f553c6351737eed3f919769/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_77286b450018c765668e673a0baa91c48ed88e84/classes.dex" />
+    </item>
+
+</items>

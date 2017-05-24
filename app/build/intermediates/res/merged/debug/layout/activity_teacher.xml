@@ -1,0 +1,64 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="us.mifeng.ls.TeacherActivity" >
+     <RelativeLayout
+         	android:id="@+id/rl_fanhui"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#F6002E"
+            android:gravity="center_vertical"
+            android:padding="3dp" >
+            <TextView
+                android:id="@+id/banji_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:padding="3dp"
+                android:text="老师出勤率"
+                android:textColor="#000"
+                android:textSize="25sp" />
+            <ImageView
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="5dp"
+                android:onClick="fanhui"
+                android:src="@drawable/arrow_back_hl" />
+        </RelativeLayout>
+    
+
+    <TextView
+        android:id="@+id/tv_lsname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:padding="5dp"
+        android:text="老师姓名：---"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/tv_lscql"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:text="老师出勤率：--%"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/tv_xy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:text="所在学院：---"
+        android:textSize="18sp" />
+
+    <ListView
+        android:id="@+id/lv_banji"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+    </ListView>
+
+</LinearLayout>

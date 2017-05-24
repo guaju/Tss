@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/amend_activity.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/amend_activity.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/zhou_item_banji.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/zhou_item_banji.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/zhuxingtuitem.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/zhuxingtuitem.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/totalfragweij.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/totalfragweij.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/ri_context.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/ri_context.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/ri_title.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/ri_title.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/fragmetn_zhou.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/fragmetn_zhou.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/fragmetn_ri.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/fragmetn_ri.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/xuanzechaxunshujuleixing_activity.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/xuanzechaxunshujuleixing_activity.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/zhou_item_xueyuan.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/zhou_item_xueyuan.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/viewpager_zhou_yue.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/viewpager_zhou_yue.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/zhou_fragment_account.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/zhou_fragment_account.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/zhou_title.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/zhou_title.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/ri_title_fromweek.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/ri_title_fromweek.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/riweiji_activity.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/riweiji_activity.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/dangexuesheng_activity.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/dangexuesheng_activity.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/linechart_activity.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/linechart_activity.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/yuehuizong_activity.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/yuehuizong_activity.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/classoverall_activity.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/classoverall_activity.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/zhuxing_tu.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/zhuxing_tu.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/inputquery_main.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/inputquery_main.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/activity_zhou_item.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/activity_zhou_item.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/activity_piechart.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/activity_piechart.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/sandian.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/sandian.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/collagechoice_activity.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/collagechoice_activity.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/zhuxingtuview.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/zhuxingtuview.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/xinxi_query.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/xinxi_query.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/zhou_context.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/zhou_context.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/activity_zhou.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/activity_zhou.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/activity_teacher.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/activity_teacher.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/findcollage.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/findcollage.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/progressdialog.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/progressdialog.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/activity_denglu.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/activity_denglu.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/zhexian_tu.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/zhexian_tu.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/cloud.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/cloud.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/fragment_data.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/fragment_data.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/piechart.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/piechart.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/myitem_lv.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/myitem_lv.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/yuehuizong_banji.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/yuehuizong_banji.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/activity_xueyuanhuizong.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/activity_xueyuanhuizong.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/yuehuizong_xueyuan.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/yuehuizong_xueyuan.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/zhou_class_title.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/zhou_class_title.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/class_overall_fujian.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/class_overall_fujian.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/collage_activity.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/collage_activity.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/activity_barchart.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/activity_barchart.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/error.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/error.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/activity_grade.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/activity_grade.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/datechoicepop.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/datechoicepop.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/grivlist_fujian2.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/grivlist_fujian2.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/zhuxingtuiweijitem.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/zhuxingtuiweijitem.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/attendanceinclass.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/attendanceinclass.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/grade_list_fujian.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/grade_list_fujian.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/grivlist_fujian.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/grivlist_fujian.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/item_teacher.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/item_teacher.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/layout/showdetai_piechart.xml",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/layout/showdetai_piechart.xml"
+    }
+]
