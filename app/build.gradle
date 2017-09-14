@@ -1,7 +1,6 @@
 apply plugin: 'com.android.application'
 
 android {
-
     aaptOptions {
         cruncherEnabled = false
     }
@@ -11,11 +10,12 @@ android {
     defaultConfig {
         applicationId "us.mifeng.bubaexaminationsystem.activity"
         minSdkVersion 11
-        targetSdkVersion 18
+        targetSdkVersion 22
     }
 
     buildTypes {
         release {
+//            signingConfig signingConfigs.relealse
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }

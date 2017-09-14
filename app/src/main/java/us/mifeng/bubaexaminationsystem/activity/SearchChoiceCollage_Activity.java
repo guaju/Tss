@@ -1,10 +1,18 @@
 package us.mifeng.bubaexaminationsystem.activity;
 
-import java.util.ArrayList;
-import java.util.List;
+import android.app.Activity;
+import android.content.Intent;
+import android.content.SharedPreferences;
+import android.os.Bundle;
+import android.util.Log;
+import android.view.View;
+import android.widget.RelativeLayout;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
+
+import java.util.ArrayList;
+import java.util.List;
 
 import us.mifeng.bubaexaminationsystem.app.JieKou;
 import us.mifeng.bubaexaminationsystem.utils.ConnectInternet;
@@ -12,22 +20,26 @@ import us.mifeng.bubaexaminationsystem.utils.JanyTools;
 import us.mifeng.bubaexaminationsystem.utils.ToShow;
 import us.mifeng.bubaexaminationsystem.view.RippleView;
 import us.mifeng.bubaexaminationsystem.view.RippleView.OnRippleCompleteListener;
-import android.app.Activity;
-import android.content.Intent;
-import android.os.Bundle;
-import android.util.Log;
-import android.view.View;
-import android.widget.RelativeLayout;
 
 public class SearchChoiceCollage_Activity extends Activity implements OnRippleCompleteListener{
 
-	private RelativeLayout tv_syidong,tv_sdianzi,tv_sgongshang,tv_sshuzi,tv_ssjianzhu,tv_sjisuan,tv_sruanjian,tv_allcollage;
+	private RelativeLayout
+			tv_syidong,
+			tv_sdianzi,
+			tv_sgongshang,
+			tv_sshuzi,
+			tv_ssjianzhu,
+			tv_sjisuan,
+			tv_sruanjian,
+			tv_allcollage;
 	private RippleView rp_yd,rp_rg,rp_jg,rp_wl,rp_sz,rp_gs,rp_jsj,rp_quan,rv_cloud;
 	private String extra;
 	private List<String> list = new ArrayList<String>();
 	private Intent intent;
 	private String name;
 	private int type;
+	private SharedPreferences sp;
+	String[] totalPermissions={"BUBA","wanglihong","yuanxmh","zhangcx","yanggl","jich","wujl"};
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -122,14 +134,19 @@ public class SearchChoiceCollage_Activity extends Activity implements OnRippleCo
 		
 		switch (rippleView.getId()){
 		case R.id.rp_yd:
+			//check if the user is local user
+			if(checkIsTotalPermission()||checkUser("yd")){
 			Bundle bundle = new Bundle();
 			intent = new Intent();
 			bundle.putString("name", "移动");
 			bundle.putString("id", "17");
 			intent.putExtras(bundle);
 			panDuan("移动");
-			
-			
+			}else{
+				ToShow.show(this, "您好，暂无权限～");
+			}
+
+
 //			xueYuan("移动");
 //			intent.setClass(SearchChoiceCollage_Activity.this, XueYuanHuiZong_Activity.class);
 //			startActivity(intent);
@@ -137,112 +154,163 @@ public class SearchChoiceCollage_Activity extends Activity implements OnRippleCo
 			
 			
 		case R.id.rv_cloud:
-			Bundle bundle8 = new Bundle();
-			intent = new Intent();
-			bundle8.putString("name", "数据云");
-			bundle8.putString("id", "18");
-			intent.putExtras(bundle8);
-			panDuan("数据云");
-			
+			if(checkIsTotalPermission()||checkUser("dsj")) {
+				Bundle bundle8 = new Bundle();
+				intent = new Intent();
+				bundle8.putString("name", "数据云");
+				bundle8.putString("id", "18");
+				intent.putExtras(bundle8);
+				panDuan("数据云");
+			}else{
+				ToShow.show(this, "您好，暂无权限～");
+			}
 			
 //			xueYuan("移动");
 //			intent.setClass(SearchChoiceCollage_Activity.this, XueYuanHuiZong_Activity.class);
 //			startActivity(intent);
 			break;
 		case R.id.rp_wl:
-			Bundle bundle1 = new Bundle();
-			intent = new Intent();
-			bundle1.putString("name", "电商");
-			bundle1.putString("id", "16");
-			intent.putExtras(bundle1);
-			panDuan("电商");
-			
+			if (checkIsTotalPermission()||checkUser("dsxy")) {
+				Bundle bundle1 = new Bundle();
+				intent = new Intent();
+				bundle1.putString("name", "电商");
+				bundle1.putString("id", "16");
+				intent.putExtras(bundle1);
+				panDuan("电商");
+			}else{
+				ToShow.show(this, "您好，暂无权限～");
+			}
 			
 //			xueYuan("电商");
 //			intent.setClass(SearchChoiceCollage_Activity.this, XueYuanHuiZong_Activity.class);
 //			startActivity(intent);
 			break;
 		case R.id.rp_gs:
-			Bundle bundle2 = new Bundle();
-			intent = new Intent();
-			bundle2.putString("name", "工商");
-			bundle2.putString("id", "11");
-			intent.putExtras(bundle2);
-			panDuan("工商");
-			
+			if(checkIsTotalPermission()||checkUser("gsxy")) {
+				Bundle bundle2 = new Bundle();
+				intent = new Intent();
+				bundle2.putString("name", "工商");
+				bundle2.putString("id", "11");
+				intent.putExtras(bundle2);
+				panDuan("工商");
+			}else{
+				ToShow.show(this, "您好，暂无权限～");
+			}
 			
 //			xueYuan("工商");
 //			intent.setClass(SearchChoiceCollage_Activity.this, XueYuanHuiZong_Activity.class);
 //			startActivity(intent);
 			break;
 		case R.id.rp_sz:
-			Bundle bundle3 = new Bundle();
-			intent = new Intent();
-			bundle3.putString("name", "数字");
-			bundle3.putString("id", "15");
-			intent.putExtras(bundle3);
-			panDuan("数字");
-			
-			
+			if(checkIsTotalPermission()||checkUser("szxy")) {
+				Bundle bundle3 = new Bundle();
+				intent = new Intent();
+				bundle3.putString("name", "数字");
+				bundle3.putString("id", "15");
+				intent.putExtras(bundle3);
+				panDuan("数字");
+			}
+			else{
+				ToShow.show(this, "您好，暂无权限～");
+			}
 //			xueYuan("数字");
 //			intent.setClass(SearchChoiceCollage_Activity.this, XueYuanHuiZong_Activity.class);
 //			startActivity(intent);
 			break;
 		case R.id.rp_jg:
-			Bundle bundle4 = new Bundle();
-			intent = new Intent();
-			bundle4.putString("name", "建工");
-			bundle4.putString("id", "12");
-			intent.putExtras(bundle4);
-			panDuan("建工");
-			
-			
+			if(checkIsTotalPermission()||checkUser("jgxy")) {
+				Bundle bundle4 = new Bundle();
+				intent = new Intent();
+				bundle4.putString("name", "建工");
+				bundle4.putString("id", "12");
+				intent.putExtras(bundle4);
+				panDuan("建工");
+			}
+			else{
+				ToShow.show(this, "您好，暂无权限～");
+			}
 //			xueYuan("建工");
 //			intent.setClass(SearchChoiceCollage_Activity.this, XueYuanHuiZong_Activity.class);
 //			startActivity(intent);
 			break;
 		case R.id.rp_jsj:
+			if (checkIsTotalPermission()||checkUser("jsjxy")){
 			Bundle bundle5 = new Bundle();
 			intent = new Intent();
 			bundle5.putString("name", "计算机");
 			bundle5.putString("id", "13");
 			intent.putExtras(bundle5);
 			panDuan("计算机");
-			
-			
+			}
+			else{
+				ToShow.show(this, "您好，暂无权限～");
+			}
 //			xueYuan("计算机");
 //			intent.setClass(SearchChoiceCollage_Activity.this, XueYuanHuiZong_Activity.class);
 //			startActivity(intent);
 			break;
 		case R.id.rp_rg:
+			if (checkIsTotalPermission()||checkUser("rgxy")){
 			Bundle bundle6 = new Bundle();
 			intent = new Intent();
 			bundle6.putString("name", "软工");
 			bundle6.putString("id","14");
 			intent.putExtras(bundle6);
 			panDuan("软工");
-			
-			
+			}
+			else{
+				ToShow.show(this, "您好，暂无权限～");
+			}
 //			xueYuan("软工");
 //			intent.setClass (SearchChoiceCollage_Activity.this, XueYuanHuiZong_Activity.class);
 //			startActivity(intent);
 			break;
 		case R.id.rp_quan:
-			Bundle bundle7 = new Bundle();
-			intent = new Intent();
-			bundle7.putString("name", "全部学院");
-			bundle7.putString("id","");
-			intent.putExtras(bundle7);
-			if (type>1100) {
-				intent.setClass(SearchChoiceCollage_Activity.this, XueYuanHuiZong_Activity.class);
-				startActivity(intent);
-			}else {
-				ToShow.show(SearchChoiceCollage_Activity.this, "并没有权限- -");
+			if (checkIsTotalPermission()) {
+				Bundle bundle7 = new Bundle();
+				intent = new Intent();
+				bundle7.putString("name", "全部学院");
+				bundle7.putString("id", "");
+				intent.putExtras(bundle7);
+				if (type > 1100) {
+					intent.setClass(SearchChoiceCollage_Activity.this, XueYuanHuiZong_Activity.class);
+					startActivity(intent);
+				} else {
+					ToShow.show(SearchChoiceCollage_Activity.this, "并没有权限- -");
+				}
+			}else{
+				ToShow.show(this, "您好，暂无权限～");
 			}
-			
 			break;
 		}
 	}
+
+	private boolean checkIsTotalPermission() {
+		boolean tag=false;
+		sp = getSharedPreferences("config", MODE_PRIVATE);
+		String username = sp.getString("username", "");
+		for (String str:totalPermissions){
+			if (!str.equals(username)){
+				tag=false;
+			}else{
+				tag=true;
+				return tag;
+				}
+		}
+		return tag;
+	}
+
+	private boolean checkUser(String xueyuanName) {
+		sp = getSharedPreferences("config", MODE_PRIVATE);
+		String username = sp.getString("username", "");
+		if (!xueyuanName.equals(username)){
+
+			return false;
+		}else{
+		return true;
+		}
+	}
+
 	public void panDuan(String str){
 		if (type>1100) {
 			intent.setClass(SearchChoiceCollage_Activity.this, XueYuanHuiZong_Activity.class);

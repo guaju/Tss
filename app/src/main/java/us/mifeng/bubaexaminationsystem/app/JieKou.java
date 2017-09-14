@@ -16,10 +16,11 @@ public class JieKou {
 	public static String ZHUJI4 = "http://192.168.190.110/TSS";
 	public static String ZHUJI5 = "http://192.168.120.240/TSS";
 	public static String ZHUJI = "http://223.72.255.100/JRE";
+		public static String ZHUJI111 = "192.168.40.40/TSS";
 	public static String ZHUJI6= "http://223.72.255.100/TSS";
 	public static String ZHUJI7 = "http://192.168.186.46/TSS";
 	public static String ZHUJI9999 = "http://192.168.4.188/TSS";
-	
+
 	
 	/**
 	 * 登陆的接口

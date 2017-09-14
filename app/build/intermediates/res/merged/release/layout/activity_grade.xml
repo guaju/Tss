@@ -1,0 +1,39 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff" 
+    android:orientation="vertical" >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#F6002E"
+        android:gravity="center_vertical"
+        android:padding="3dp" >
+        <TextView
+            android:id="@+id/grade_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="3dp"
+            android:text="移动通信"
+            android:textColor="#000"
+            android:textSize="25sp" />
+       <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:onClick="fanhui"
+            android:src="@drawable/arrow_back_hl" />
+    </RelativeLayout>
+    
+
+    <ListView
+        android:id="@+id/grade_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#CEFFFF" >
+    </ListView>
+
+</LinearLayout>

@@ -1,0 +1,324 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scroll_view"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:scrollbars="none" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#fff"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#F6002E"
+            android:gravity="center_vertical"
+            android:padding="3dp" >
+
+            <TextView
+                android:id="@+id/banji_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:padding="3dp"
+                android:text="移动通信"
+                android:textColor="#000"
+                android:textSize="25sp" />
+
+            <ImageView
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="5dp"
+                android:onClick="fanhui"
+                android:src="@drawable/arrow_back_hl" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:padding="3dp"
+                android:text="现在的查课时间是第"
+                android:textSize="20sp" />
+            <Spinner 
+                android:id="@+id/sp_keshi"
+                android:layout_width="40dp"
+                android:layout_height="30dp"
+                android:gravity="center"
+                android:background="@drawable/dangexuesheng_edit_frame_color"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+                android:entries="@array/keshi"
+                />
+            
+
+            <!-- <EditText
+                android:id="@+id/et_period"
+                android:layout_width="35dp"
+                android:layout_height="21dp"
+                android:background="@drawable/dangexuesheng_edit_frame_color"
+                android:gravity="center"
+                android:numeric="integer"
+                android:textColor="#000"
+                android:textSize="15sp" /> -->
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="节课"
+                android:textSize="20sp" />
+        </LinearLayout>
+        <TextView
+                android:layout_marginTop="15dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:id="@+id/tv_kecheng"
+                android:text="课程是:JAVA基础"
+                android:textSize="15sp" />
+	<LinearLayout 
+	    android:layout_marginTop="15dp"
+	    android:id="@+id/ll_teacher"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical"
+	    android:background="#33D8BFD8"
+	    >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="老师"
+            android:textSize="22sp" />
+
+        <us.mifeng.bubaexaminationsystem.view.MyGridView
+            android:id="@+id/gv_laoshi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:listSelector="@android:color/transparent"
+            android:numColumns="2"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp" />
+</LinearLayout>
+
+	<LinearLayout 
+	    android:id="@+id/ll_student"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical"
+	    android:background="#2287CEEB"
+	    >
+        <TextView
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="学生"
+            android:textSize="22sp" />
+
+        <us.mifeng.bubaexaminationsystem.view.MyGridView
+            android:id="@+id/gv_student"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:listSelector="@android:color/transparent"
+            android:numColumns="3"
+            android:padding="10dp" />
+</LinearLayout>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_marginTop="5dp"
+            android:background="#000" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:text="应到"
+                android:textSize="20sp" />
+            <EditText 
+                android:id="@+id/ed_ydrs"
+                android:layout_width="35dp"
+                android:layout_height="30dp"
+                android:background="@drawable/dangexuesheng_edit_frame_color"
+                android:gravity="center"
+                android:numeric="integer"
+                android:textColor="#000"
+                android:textSize="15sp" 
+                
+                />
+            <TextView 
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:text="人，实到"
+                android:textSize="20sp" 
+                />
+
+            <EditText
+                android:id="@+id/et_sdrs"
+                android:layout_width="35dp"
+                android:layout_height="30dp"
+                android:background="@drawable/dangexuesheng_edit_frame_color"
+                android:gravity="center"
+                android:numeric="integer"
+                android:textColor="#000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:text="人"
+                android:textSize="20sp" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_chuqinlv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="200dp"
+            android:gravity="left"
+            android:text="出勤率100%"
+            android:textSize="15sp" />
+        <RelativeLayout 
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+       		     >
+            	<LinearLayout
+            	    android:layout_alignParentRight="true"
+            	    android:layout_width="wrap_content"
+            	    android:layout_height="wrap_content"
+            	    android:orientation="horizontal"
+            	    android:gravity="center_vertical"
+            	     >
+		        <TextView
+		            android:id="@+id/tv_weijiren1"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:text="违纪人数"
+		            android:textSize="15sp" />
+			<LinearLayout
+			    android:id="@+id/set_weiji_num"
+			    android:layout_toRightOf="@id/tv_weijiren1"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:gravity="center"
+			    android:orientation="horizontal"
+			    android:padding="2dp"
+			    
+			    >
+		        	<ImageButton
+		        	    android:id="@+id/ib_jian_weijinum"
+		        	    android:layout_margin="5dp"
+		        	    android:layout_gravity="center"
+		        	    android:layout_width="30dp"
+		        	    android:layout_height="30dp"
+		        	    android:background="@drawable/selector_jian_weijinum"
+		        	    />
+        
+	        		<EditText 
+	        		    android:text="1"
+	        		    android:id="@+id/et_changed_weijinum"
+			   		    android:layout_width="20dp"
+	            		android:layout_height="20dp"
+			    		android:textSize="14sp"			    		
+			    		android:gravity="center"
+			    		android:background="@drawable/dis_person_shape"
+			    		/>
+				   <ImageButton
+				    android:id="@+id/ib_add_weijinum"
+				   	android:layout_margin="5dp"
+					android:layout_gravity="center"				    
+	        	    android:layout_width="30dp"
+	        	    android:layout_height="30dp"
+	        	    android:background="@drawable/selector_add_weijinum"
+	        	    />		
+	        	    </LinearLayout>
+	        	    
+				<TextView
+				    android:layout_toRightOf="@id/set_weiji_num"
+		            android:id="@+id/tv_weijiren"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"
+		            android:text="人"
+		            android:layout_marginRight="3dp"
+		            android:textSize="15sp" />
+				</LinearLayout>
+				</RelativeLayout>
+        
+        <TextView
+            android:id="@+id/tv_weijilv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="200dp"
+            android:gravity="left"
+            android:text="违纪率1%"
+            android:textSize="15dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="10dp"
+            android:text="检查学生情况"
+            android:textSize="15sp" />
+
+        <EditText
+            android:id="@+id/et_student"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:hint="将学生情况写在这个位置" />
+        
+        
+        <TextView 
+            android:id="@+id/tv_recorded_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:padding="5dp"
+            android:visibility="invisible"
+            android:text="hehehe"
+            />
+      	<View 
+      	    android:layout_width="wrap_content"
+            android:layout_height="20.5dp"
+      	    />
+       
+      	 <Button
+	     	android:layout_alignParentBottom="true"
+            android:id="@+id/bt_commit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#F6002E"
+            android:gravity="center"
+            android:onClick="commit"
+            android:padding="5dp"
+            android:text="确认提交"
+            android:textSize="25sp" />
+      	
+    </LinearLayout>
+    
+
+</ScrollView>
+	
+

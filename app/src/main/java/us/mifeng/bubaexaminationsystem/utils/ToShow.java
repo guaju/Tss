@@ -8,7 +8,7 @@ public class ToShow {
 	private static Toast to;
 	public static void show(Context context,String str){
 		if (to==null) {
-			to = Toast.makeText(context,str, 0);
+			to = Toast.makeText(context,str, Toast.LENGTH_SHORT);
 		}
 		if(!TextUtils.isEmpty(str)){
 			to.setText(str);

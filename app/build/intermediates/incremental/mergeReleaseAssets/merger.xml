@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="/root/.android/build-cache/041b7b660aa1d920ccef8363eeee2784aaeccf3f/output/assets"/></dataSet><dataSet config="main"><source path="/root/AndroidStudioProjects/bubamanager22/app/src/main/assets"/><source path="/root/AndroidStudioProjects/bubamanager22/app/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/root/AndroidStudioProjects/bubamanager22/app/src/release/assets"/></dataSet></merger>

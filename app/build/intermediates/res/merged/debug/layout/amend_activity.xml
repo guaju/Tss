@@ -211,14 +211,14 @@
             	    android:gravity="center_vertical"
             	     >
 		        <TextView
-		            android:id="@+id/tv_weijiren"
+		            android:id="@+id/tv_weijiren1"
 		            android:layout_width="wrap_content"
 		            android:layout_height="wrap_content"
 		            android:text="违纪人数"
 		            android:textSize="15sp" />
 			<LinearLayout
 			    android:id="@+id/set_weiji_num"
-			    android:layout_toRightOf="@id/tv_weijiren"
+			    android:layout_toRightOf="@id/tv_weijiren1"
 			    android:layout_width="wrap_content"
 			    android:layout_height="wrap_content"
 			    android:gravity="center"

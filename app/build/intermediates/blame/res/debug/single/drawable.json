@@ -64,12 +64,12 @@
         "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/drawable/xiuxue1.png"
     },
     {
-        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/drawable/gongshang.png",
-        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/drawable/gongshang.png"
-    },
-    {
         "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/drawable/denglu_button.xml",
         "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/drawable/denglu_button.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/drawable/gongshang.png",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/drawable/gongshang.png"
     },
     {
         "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/drawable/shuzi.png",
@@ -184,12 +184,12 @@
         "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/drawable/aoteman.png"
     },
     {
-        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/drawable/shiyi.gif",
-        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/drawable/shiyi.gif"
-    },
-    {
         "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/drawable/dange_qingjia.xml",
         "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/drawable/dange_qingjia.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/drawable/shiyi.gif",
+        "source": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/drawable/shiyi.gif"
     },
     {
         "merged": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/res/merged/debug/drawable/status_xiuxue.png",

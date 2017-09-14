@@ -1,0 +1,395 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context=".MainActivity" >
+
+    <RelativeLayout
+        android:id="@+id/zong"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#7066cc99"
+        android:gravity="center_vertical"
+        android:padding="3dp" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="3dp"
+            android:text="请选择学院"
+            android:textColor="#fff"
+            android:textSize="22sp" />
+
+        <ImageView
+            android:id="@+id/im_fanhui"
+            android:layout_width="28dp"
+            android:layout_height="28dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:onClick="click"
+            android:src="@drawable/arrow_back_hl" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/zong" >
+
+        <us.mifeng.bubaexaminationsystem.view.RippleView 
+            android:layout_marginTop="20dp"
+            android:id="@+id/rv_yd"
+            android:layout_alignParentRight="true"
+            android:layout_width="240dp"
+            android:layout_height="wrap_content"
+            >
+        <RelativeLayout
+            android:id="@+id/rl_yidong"
+            android:layout_width="240dp"
+            android:layout_height="50dp"
+            android:background="@drawable/banyuan" >
+
+            <ImageView
+                android:id="@+id/im_yidong"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/yidong" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="3dp"
+                android:layout_toRightOf="@+id/im_yidong"
+                android:text="Mobile"
+                android:textColor="#000" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:text="移动通信"
+                android:textColor="#000"
+                android:textSize="20sp" />
+        </RelativeLayout>
+        </us.mifeng.bubaexaminationsystem.view.RippleView>
+        
+        <us.mifeng.bubaexaminationsystem.view.RippleView 
+            android:layout_marginTop="5dp"
+            android:id="@+id/rv_rg"
+            android:layout_alignParentRight="true"
+            android:layout_width="280dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/rv_yd"
+            >
+        <RelativeLayout
+            android:id="@+id/rl_ruanjian"
+            android:layout_width="280dp"
+            android:layout_height="50dp"
+            android:background="@drawable/banyuan" >
+
+            <ImageView
+                android:id="@+id/im_ruangong"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/ruangong" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="3dp"
+                android:layout_toRightOf="@+id/im_ruangong"
+                android:text="Software"
+                android:textColor="#000" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:text="软件工程"
+                android:textColor="#000"
+                android:textSize="20sp" />
+        </RelativeLayout>
+		</us.mifeng.bubaexaminationsystem.view.RippleView>
+		
+        <us.mifeng.bubaexaminationsystem.view.RippleView 
+            android:layout_marginTop="5dp"
+            android:id="@+id/rv_jg"
+            android:layout_alignParentRight="true"
+            android:layout_width="230dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/rv_rg"
+            >
+        <RelativeLayout
+            android:id="@+id/rl_jianzhu"
+            android:layout_width="230dp"
+            android:layout_height="50dp"
+            android:background="@drawable/banyuan" >
+
+            <ImageView
+                android:id="@+id/im_jiangong"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/jianzhu" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="3dp"
+                android:layout_toRightOf="@+id/im_jiangong"
+                android:text="Architecture"
+                android:textColor="#000" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:text="建筑工程"
+                android:textColor="#000"
+                android:textSize="20sp" />
+        </RelativeLayout>
+		</us.mifeng.bubaexaminationsystem.view.RippleView>
+        
+        <us.mifeng.bubaexaminationsystem.view.RippleView 
+            android:layout_marginTop="5dp"
+            android:id="@+id/rv_dz"
+            android:layout_alignParentRight="true"
+            android:layout_width="270dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/rv_jg"
+            >
+        <RelativeLayout
+            android:id="@+id/rl_dianzi"
+            android:layout_width="270dp"
+            android:layout_height="50dp"
+            android:background="@drawable/banyuan" >
+
+            <ImageView
+                android:id="@+id/im_wangluo"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/wangluo" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="3dp"
+                android:layout_toRightOf="@+id/im_wangluo"
+                android:text="Marketing"
+                android:textColor="#000" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:text="电子商务"
+                android:textColor="#000"
+                android:textSize="20sp" />
+        </RelativeLayout>
+		</us.mifeng.bubaexaminationsystem.view.RippleView>
+		
+        <us.mifeng.bubaexaminationsystem.view.RippleView 
+            android:layout_marginTop="5dp"
+            android:id="@+id/rv_sz"
+            android:layout_alignParentRight="true"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/rv_dz"
+            >
+        <RelativeLayout
+            android:id="@+id/rl_shuzi"
+            android:layout_width="250dp"
+            android:layout_height="50dp"
+            android:background="@drawable/banyuan" >
+
+            <ImageView
+                android:id="@+id/im_shuzi"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/shuzi" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="3dp"
+                android:layout_toRightOf="@+id/im_shuzi"
+                android:text="Ui"
+                android:textColor="#000" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:text="数字媒体"
+                android:textColor="#000"
+                android:textSize="20sp" />
+        </RelativeLayout>
+		</us.mifeng.bubaexaminationsystem.view.RippleView>
+        
+        <us.mifeng.bubaexaminationsystem.view.RippleView 
+            android:layout_marginTop="5dp"
+            android:id="@+id/rv_gs"
+            android:layout_alignParentRight="true"
+            android:layout_width="240dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/rv_sz"
+            >
+        <RelativeLayout
+            android:id="@+id/rl_gongshang"
+            android:layout_width="240dp"
+            android:layout_height="50dp"
+            android:background="@drawable/banyuan" >
+
+            <ImageView
+                android:id="@+id/im_gongshang"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/gongshang" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="3dp"
+                android:layout_toRightOf="@+id/im_gongshang"
+                android:text="Business"
+                android:textColor="#000" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:text="工商管理"
+                android:textColor="#000"
+                android:textSize="20sp" />
+        </RelativeLayout>
+		</us.mifeng.bubaexaminationsystem.view.RippleView>
+		
+        <us.mifeng.bubaexaminationsystem.view.RippleView 
+            android:layout_marginTop="5dp"
+            android:id="@+id/rv_js"
+            android:layout_alignParentRight="true"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/rv_gs"
+            >
+        <RelativeLayout
+            android:id="@+id/rl_jisuan"
+            android:layout_width="280dp"
+            android:layout_height="50dp"
+            android:background="@drawable/banyuan" >
+
+            <ImageView
+                android:id="@+id/im_jisuanji"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/jisuanji" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="3dp"
+                android:layout_toRightOf="@+id/im_jisuanji"
+                android:text="Computer"
+                android:textColor="#000" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:text="计算机"
+                android:textColor="#000"
+                android:textSize="20sp" />
+        </RelativeLayout>
+		</us.mifeng.bubaexaminationsystem.view.RippleView>
+		
+        <us.mifeng.bubaexaminationsystem.view.RippleView 
+            android:layout_marginTop="5dp"
+            android:id="@+id/rv_cloud"
+            android:layout_alignParentRight="true"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/rv_js"
+            >
+        <include layout="@layout/cloud"/>
+        </us.mifeng.bubaexaminationsystem.view.RippleView>
+        
+		
+        <us.mifeng.bubaexaminationsystem.view.RippleView 
+            android:layout_marginTop="5dp"
+            android:layout_alignParentRight="true"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/rv_cloud"
+            >
+        <RelativeLayout
+            android:id="@+id/rl_allcollage"
+            android:layout_width="260dp"
+            android:layout_height="50dp"
+            android:background="@drawable/banyuan" >
+
+            <ImageView
+                android:id="@+id/im_quanbu"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/xuexiao" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="3dp"
+                android:layout_toRightOf="@+id/im_quanbu"
+                android:text="BUBA"
+                android:textColor="#000" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:text="全部学院"
+                android:textColor="#000"
+                android:textSize="20sp" />
+        </RelativeLayout>
+        </us.mifeng.bubaexaminationsystem.view.RippleView>
+    </RelativeLayout>
+
+</RelativeLayout>
