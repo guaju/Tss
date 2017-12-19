@@ -3,30 +3,57 @@
 
     <item
         is-multidex="false"
-        jar="/root/AndroidStudioProjects/bubamanager22/app/libs/android-async-http-1.4.8.jar"
+        jar="/Users/guaju/.android/build-cache/e8ae3983aab970d9e31b82e7ab6e838cb58cb422/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/guaju/AndroidStudioProjects/Tss/app/build/intermediates/pre-dexed/debug/classes_779736e419f078f467acc9da088b60d0c4b4386a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guaju/AndroidStudioProjects/Tss/app/libs/android-async-http-1.4.8.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="77bbfe240e437ecb396d982afa0d3bd4f9090ba7">
-        <dex dex="/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/pre-dexed/release/android-async-http-1.4.8_368a9570f3e1adc52a1d945de22cb34b20367fd3.jar" />
+        <dex dex="/Users/guaju/AndroidStudioProjects/Tss/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.8_bb63c0ac2cddcf16405fccd4d76aefffbee4385e.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/root/AndroidStudioProjects/bubamanager22/app/libs/mpandroidchartlibrary-2-2-4.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="e5455fb794bfcbeb75da252dffd907794614f7fd">
-        <dex dex="/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/pre-dexed/release/mpandroidchartlibrary-2-2-4_aebd8c69f0f15bd914400d24766b7ab8192042f0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/AndroidStudioProjects/bubamanager22/app/libs/library-1.0.19.jar"
+        jar="/Users/guaju/AndroidStudioProjects/Tss/app/libs/library-1.0.19.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
-        <dex dex="/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/pre-dexed/release/library-1.0.19_cb99e8253df1f27072e4f759631a1f9cf3dc8f87.jar" />
+        <dex dex="/Users/guaju/AndroidStudioProjects/Tss/app/build/intermediates/pre-dexed/debug/library-1.0.19_9e3608d16e78c9f34b8bb0dc4a70fba4989e903a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guaju/AndroidStudioProjects/Tss/app/libs/mpandroidchartlibrary-2-2-4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e5455fb794bfcbeb75da252dffd907794614f7fd">
+        <dex dex="/Users/guaju/AndroidStudioProjects/Tss/app/build/intermediates/pre-dexed/debug/mpandroidchartlibrary-2-2-4_6b334a6ca89010215e0ec2e7720ea1c1e1de3888.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guaju/.android/build-cache/e8ae3983aab970d9e31b82e7ab6e838cb58cb422/output/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/guaju/AndroidStudioProjects/Tss/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_67be2475f5051085c50583714fcad60ccc8c21ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guaju/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/21.0.3/4b74cefe1f0c1b819e7260c8627a14674e37fd35/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/guaju/AndroidStudioProjects/Tss/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3_fcd608c3e87adee08a7c097da8c9c0c281deac1d.jar" />
     </item>
 
 </items>

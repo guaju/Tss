@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="/Users/guaju/.android/build-cache/e8ae3983aab970d9e31b82e7ab6e838cb58cb422/output/assets"/></dataSet><dataSet config="main"><source path="/Users/guaju/AndroidStudioProjects/Tss/app/src/main/assets"/><source path="/Users/guaju/AndroidStudioProjects/Tss/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/guaju/AndroidStudioProjects/Tss/app/src/debug/assets"/></dataSet></merger>

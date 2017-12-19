@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/root/AndroidStudioProjects/bubamanager22/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+        "outputFile": "/Users/guaju/AndroidStudioProjects/Tss/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 343
                 },
                 "from": {
-                    "file": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/values/strings.xml",
+                    "file": "/Users/guaju/AndroidStudioProjects/Tss/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 1,
@@ -32,7 +32,7 @@
                     "endOffset": 384
                 },
                 "from": {
-                    "file": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/values/color.xml",
+                    "file": "/Users/guaju/AndroidStudioProjects/Tss/app/src/main/res/values/color.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -51,7 +51,7 @@
                     "endOffset": 424
                 },
                 "from": {
-                    "file": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/values/yanse.xml",
+                    "file": "/Users/guaju/AndroidStudioProjects/Tss/app/src/main/res/values/yanse.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -70,7 +70,7 @@
                     "endOffset": 464
                 },
                 "from": {
-                    "file": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/values/color.xml",
+                    "file": "/Users/guaju/AndroidStudioProjects/Tss/app/src/main/res/values/color.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -89,7 +89,7 @@
                     "endOffset": 502
                 },
                 "from": {
-                    "file": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/values/colors.xml",
+                    "file": "/Users/guaju/AndroidStudioProjects/Tss/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -108,7 +108,7 @@
                     "endOffset": 550
                 },
                 "from": {
-                    "file": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/values/color.xml",
+                    "file": "/Users/guaju/AndroidStudioProjects/Tss/app/src/main/res/values/color.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -127,7 +127,7 @@
                     "endOffset": 594
                 },
                 "from": {
-                    "file": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/values/color.xml",
+                    "file": "/Users/guaju/AndroidStudioProjects/Tss/app/src/main/res/values/color.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -146,7 +146,7 @@
                     "endOffset": 1304
                 },
                 "from": {
-                    "file": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/values/dimens.xml",
+                    "file": "/Users/guaju/AndroidStudioProjects/Tss/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -165,7 +165,7 @@
                     "endOffset": 1360
                 },
                 "from": {
-                    "file": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/values/dimens.xml",
+                    "file": "/Users/guaju/AndroidStudioProjects/Tss/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -184,7 +184,7 @@
                     "endOffset": 1413
                 },
                 "from": {
-                    "file": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/values/strings.xml",
+                    "file": "/Users/guaju/AndroidStudioProjects/Tss/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -203,7 +203,7 @@
                     "endOffset": 1454
                 },
                 "from": {
-                    "file": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/values/strings.xml",
+                    "file": "/Users/guaju/AndroidStudioProjects/Tss/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -222,7 +222,7 @@
                     "endOffset": 1507
                 },
                 "from": {
-                    "file": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/values/strings.xml",
+                    "file": "/Users/guaju/AndroidStudioProjects/Tss/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -242,7 +242,7 @@
                     "endOffset": 1798
                 },
                 "from": {
-                    "file": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/values/styles.xml",
+                    "file": "/Users/guaju/AndroidStudioProjects/Tss/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -263,7 +263,7 @@
                     "endOffset": 1958
                 },
                 "from": {
-                    "file": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/values/styles.xml",
+                    "file": "/Users/guaju/AndroidStudioProjects/Tss/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -284,7 +284,7 @@
                     "endOffset": 2515
                 },
                 "from": {
-                    "file": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/values/styles.xml",
+                    "file": "/Users/guaju/AndroidStudioProjects/Tss/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -305,7 +305,7 @@
                     "endOffset": 2905
                 },
                 "from": {
-                    "file": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/values/styles.xml",
+                    "file": "/Users/guaju/AndroidStudioProjects/Tss/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 2,
@@ -326,7 +326,7 @@
                     "endOffset": 3064
                 },
                 "from": {
-                    "file": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/values/styles.xml",
+                    "file": "/Users/guaju/AndroidStudioProjects/Tss/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 65,
                         "startColumn": 7,
@@ -347,7 +347,7 @@
                     "endOffset": 3545
                 },
                 "from": {
-                    "file": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/values/styles.xml",
+                    "file": "/Users/guaju/AndroidStudioProjects/Tss/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 46,
                         "startColumn": 4,
@@ -368,7 +368,7 @@
                     "endOffset": 3929
                 },
                 "from": {
-                    "file": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/values/styles.xml",
+                    "file": "/Users/guaju/AndroidStudioProjects/Tss/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 57,
                         "startColumn": 4,
@@ -389,7 +389,7 @@
                     "endOffset": 4254
                 },
                 "from": {
-                    "file": "/root/AndroidStudioProjects/bubamanager22/app/src/main/res/values/styles.xml",
+                    "file": "/Users/guaju/AndroidStudioProjects/Tss/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
