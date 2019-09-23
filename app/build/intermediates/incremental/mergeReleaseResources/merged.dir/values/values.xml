@@ -19,11 +19,6 @@
     <color name="red">#ff0000</color>
     <color name="rippelColor">#20000000</color>
     <color name="transparent">#0000</color>
-    <declare-styleable name="RippleView"><attr format="integer" name="rv_alpha"/><attr format="integer" name="rv_framerate"/><attr format="integer" name="rv_rippleDuration"/><attr format="integer" name="rv_zoomDuration"/><attr format="color" name="rv_color"/><attr format="boolean" name="rv_centered"/><attr format="enum" name="rv_type">
-            <enum name="simpleRipple" value="0"/>
-            <enum name="doubleRipple" value="1"/>
-            <enum name="rectangle" value="2"/>
-        </attr><attr format="dimension" name="rv_ripplePadding"/><attr format="boolean" name="rv_zoom"/><attr format="float" name="rv_zoomScale"/></declare-styleable>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <string name="action_settings">Settings</string>
@@ -83,4 +78,21 @@
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">wrap_content</item>
     </style>
+    <declare-styleable name="RippleView">
+        <attr format="integer" name="rv_alpha"/>
+        <attr format="integer" name="rv_framerate"/>
+        <attr format="integer" name="rv_rippleDuration"/>
+        <attr format="integer" name="rv_zoomDuration"/>
+        <attr format="color" name="rv_color"/>
+        <attr format="boolean" name="rv_centered"/>
+        <attr format="enum" name="rv_type">
+            <enum name="simpleRipple" value="0"/>
+            <enum name="doubleRipple" value="1"/>
+            <enum name="rectangle" value="2"/>
+        </attr>
+        <attr format="dimension" name="rv_ripplePadding"/>
+        <attr format="boolean" name="rv_zoom"/>
+        <attr format="float" name="rv_zoomScale"/>
+
+    </declare-styleable>
 </resources>

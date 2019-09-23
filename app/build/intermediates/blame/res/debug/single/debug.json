@@ -1,0 +1,694 @@
+[
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_ic_launcher.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_zhou_sanjiao.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/zhou_sanjiao.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_yuehuizong_banji.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/yuehuizong_banji.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_jiu.gif.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/jiu.gif"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_add.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/add.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_error.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/error.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_cricle.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/cricle.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_tongjishujuyuan.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/tongjishujuyuan.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_qingjia1.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/qingjia1.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_liu.gif.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/liu.gif"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_desk.jpg.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/desk.jpg"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_choice.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/choice.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_progressdialog.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/progressdialog.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_up.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/up.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_dis_person_shape.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/dis_person_shape.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_denglu_rectangle2.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/denglu_rectangle2.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_shiyi.gif.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/shiyi.gif"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_time_shizhong.gif.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/time_shizhong.gif"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_collagechoice_activity.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/collagechoice_activity.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_jianfen.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/jianfen.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_grivlist_fujian2.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/grivlist_fujian2.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_frag_me_headimg.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/frag_me_headimg.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_zhou_item_banji.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/zhou_item_banji.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_timg.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/timg.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_linechart_activity.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/linechart_activity.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_shier.gif.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/shier.gif"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_dian.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/dian.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_shisi.gif.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/shisi.gif"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_yuehuizong_activity.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/yuehuizong_activity.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_dange_qingjia.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/dange_qingjia.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_activity_barchart.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/activity_barchart.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_fragmetn_zhou.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/fragmetn_zhou.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_searchcollagecycle.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/searchcollagecycle.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_drawable_shape2.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/drawable_shape2.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_dangexuesheng_edit_frame_color.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/dangexuesheng_edit_frame_color.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_shisan.gif.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/shisan.gif"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_selector_edit.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/selector_edit.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_arrow_back_hl.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/arrow_back_hl.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/anim_scalechange.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/anim/scalechange.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_activity_zhou.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/activity_zhou.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_sandian.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/sandian.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_upper.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/upper.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_zhuxingtuiweijitem.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/zhuxingtuiweijitem.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_banyuan.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/banyuan.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_drawable_shape.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/drawable_shape.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_jiahei.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/jiahei.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_shiwu.gif.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/shiwu.gif"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_grade_list_fujian.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/grade_list_fujian.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_piechart.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/piechart.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_edit.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/edit.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_zuojiantou.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/zuojiantou.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_cloud.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/cloud.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_qipao1.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/qipao1.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_right.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/right.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_back1.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/back1.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_imessage.9.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/imessage.9.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_login_frame_shape.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/login_frame_shape.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_activity_piechart.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/activity_piechart.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_cycle1.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/cycle1.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_listbeijing.jpg.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/listbeijing.jpg"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_xiuxue.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/xiuxue.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_delete.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/delete.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_down.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/down.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_edit_press.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/edit_press.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_xueyuan_text_selector.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/xueyuan_text_selector.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_ri_title_fromweek.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/ri_title_fromweek.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_cloud_data.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/cloud_data.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_listbeijing1.jpg.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/listbeijing1.jpg"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_zhuxingtuitem.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/zhuxingtuitem.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_showdetai_piechart.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/showdetai_piechart.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_xiangxishujuyuan.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/xiangxishujuyuan.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_zhou_context.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/zhou_context.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_status_weiji.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/status_weiji.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_zhou_item_xueyuan.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/zhou_item_xueyuan.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_xuexiao.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/xuexiao.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_wode.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/wode.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_item_teacher.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/item_teacher.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_yi.gif.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/yi.gif"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_yuehuizong_xueyuan.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/yuehuizong_xueyuan.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_jiuye1.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/jiuye1.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_activity_xueyuanhuizong.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/activity_xueyuanhuizong.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_dange_xiuxue.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/dange_xiuxue.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_ruangong.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/ruangong.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_status_tingke.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/status_tingke.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_denglu_button.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/denglu_button.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_jiuye.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/jiuye.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_qipao.9.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/qipao.9.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_dialogbg.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/dialogbg.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_flagred.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/flagred.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_fragmetn_ri.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/fragmetn_ri.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_selector_popupwindow.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/selector_popupwindow.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_inputquery_main.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/inputquery_main.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_weiji2.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/weiji2.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_amend_activity.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/amend_activity.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_jiafen.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/jiafen.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_selector_add_weijinum.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/selector_add_weijinum.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_dangexuesheng_activity.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/dangexuesheng_activity.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_denglu_press_botton.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/denglu_press_botton.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_queqing2.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/queqing2.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_xiuxue1.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/xiuxue1.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable-hdpi_sanfang.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable-hdpi/sanfang.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_checked.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/checked.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_wangluo.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/wangluo.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_lower.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/lower.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_totalfragweij.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/totalfragweij.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_left.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/left.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_status_xiuxue.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/status_xiuxue.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_activity_zhou_item.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/activity_zhou_item.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_zhou_title.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/zhou_title.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_aoteman.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/aoteman.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_jisuanji.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/jisuanji.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_cricle2.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/cricle2.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_class_overall_fujian.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/class_overall_fujian.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_shuzi.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/shuzi.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_zhuxing_tu.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/zhuxing_tu.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_riweiji_activity.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/riweiji_activity.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_ri_title.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/ri_title.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_attendanceinclass.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/attendanceinclass.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_cloud.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/cloud.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_jian.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/jian.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_san.gif.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/san.gif"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_u.jpg.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/u.jpg"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_qingjia.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/qingjia.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_zhexian_tu.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/zhexian_tu.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_qi.gif.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/qi.gif"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_ri_context.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/ri_context.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_grivlist_fujian.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/grivlist_fujian.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_yidong.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/yidong.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_activity_denglu.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/activity_denglu.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_shengluehao.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/shengluehao.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_jia.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/jia.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_ba.gif.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/ba.gif"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/anim_viewtranslate.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/anim/viewtranslate.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_zhou_class_title.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/zhou_class_title.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_cycle2.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/cycle2.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_gongshang.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/gongshang.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_datechoicepop.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/datechoicepop.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_queqing.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/queqing.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_cycle.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/cycle.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_jianzhu.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/jianzhu.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_xinxi_query.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/xinxi_query.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_collage_activity.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/collage_activity.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_sanfang.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/sanfang.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/anim_list_anim_right_to_left.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/anim/list_anim_right_to_left.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_weiji.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/weiji.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_findcollage.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/findcollage.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_denglu_edittext.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/denglu_edittext.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_zhou_fragment_account.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/zhou_fragment_account.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_denglu_default_button.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/denglu_default_button.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_bg.jpg.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/bg.jpg"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_er.gif.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/er.gif"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_wu.gif.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/wu.gif"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_activity_teacher.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/activity_teacher.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_denglu_rectangle.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/denglu_rectangle.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_selector_jian_weijinum.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/selector_jian_weijinum.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_myitem_lv.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/myitem_lv.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_si.gif.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/si.gif"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_zhuxingtuview.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/zhuxingtuview.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_dange_ziti_selector.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/dange_ziti_selector.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_viewpager_zhou_yue.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/viewpager_zhou_yue.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_jianhei.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/jianhei.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_status_qingjia.png.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/status_qingjia.png"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_fragment_data.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/fragment_data.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/drawable_shi.gif.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/drawable/shi.gif"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_activity_grade.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/activity_grade.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_xuanzechaxunshujuleixing_activity.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/xuanzechaxunshujuleixing_activity.xml"
+    },
+    {
+        "merged": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/res/merged/debug/layout_classoverall_activity.xml.flat",
+        "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/layout/classoverall_activity.xml"
+    }
+]

@@ -1,0 +1,4 @@
+#Mon Sep 23 17:52:38 CST 2019
+base.0=/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,134 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/values/yanse.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "39",
+                        "endOffsets": "92"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "389",
+                        "endColumns": "39",
+                        "endOffsets": "424"
+                    }
+                },
+                {
+                    "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15,32,18,65,46,57,26",
+                        "startColumns": "4,4,4,2,7,4,4,4",
+                        "startOffsets": "250,581,1471,742,2948,2061,2551,1140",
+                        "endLines": "12,17,41,25,67,55,63,31",
+                        "endColumns": "12,12,12,12,15,12,12,12",
+                        "endOffsets": "540,738,2032,1134,3104,2539,2933,1465"
+                    },
+                    "to": {
+                        "startLines": "26,33,36,46,54,57,67,74",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "860,1151,1311,1868,2258,2417,2898,3282",
+                        "endLines": "32,35,45,53,56,66,73,79",
+                        "endColumns": "12,12,12,12,15,12,12,12",
+                        "endOffsets": "1146,1306,1863,2253,2412,2893,3277,3602"
+                    }
+                },
+                {
+                    "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "37",
+                        "endOffsets": "88"
+                    },
+                    "to": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "469",
+                        "endColumns": "37",
+                        "endOffsets": "502"
+                    }
+                },
+                {
+                    "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "6,4,3,5",
+                        "startColumns": "1,4,4,4",
+                        "startOffsets": "205,100,58,154",
+                        "endLines": "18,4,3,5",
+                        "endColumns": "16,52,40,52",
+                        "endOffsets": "504,148,94,202"
+                    },
+                    "to": {
+                        "startLines": "2,23,24,25",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,713,766,807",
+                        "endLines": "14,23,24,25",
+                        "endColumns": "16,52,40,52",
+                        "endOffsets": "343,761,802,855"
+                    }
+                },
+                {
+                    "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/values/attrs.xml",
+                    "from": {
+                        "startLines": "26",
+                        "startColumns": "4",
+                        "startOffsets": "1227",
+                        "endLines": "42",
+                        "endColumns": "24",
+                        "endOffsets": "1978"
+                    },
+                    "to": {
+                        "startLines": "80",
+                        "startColumns": "4",
+                        "startOffsets": "3607",
+                        "endLines": "96",
+                        "endColumns": "24",
+                        "endOffsets": "4350"
+                    }
+                },
+                {
+                    "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "21,22",
+                        "startColumns": "4,4",
+                        "startOffsets": "599,657",
+                        "endColumns": "57,55",
+                        "endOffsets": "652,708"
+                    }
+                },
+                {
+                    "source": "/Users/guaju/Documents/AndroidStudio/dh-android/Tss/app/src/main/res/values/color.xml",
+                    "from": {
+                        "startLines": "4,2,3,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "147,57,98,189",
+                        "endColumns": "40,39,47,43",
+                        "endOffsets": "183,92,141,228"
+                    },
+                    "to": {
+                        "startLines": "15,17,19,20",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "348,429,507,555",
+                        "endColumns": "40,39,47,43",
+                        "endOffsets": "384,464,550,594"
+                    }
+                }
+            ]
+        }
+    ]
+}

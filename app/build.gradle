@@ -5,26 +5,46 @@ android {
         cruncherEnabled = false
     }
     compileSdkVersion 21
-    buildToolsVersion "25.0.3"
+
 
     defaultConfig {
         applicationId "us.mifeng.bubaexaminationsystem.activity"
         minSdkVersion 11
         targetSdkVersion 22
+
     }
 
-    buildTypes {
+    signingConfigs {
         release {
-//            signingConfig signingConfigs.relealse
-            minifyEnabled false
-            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+            storeFile file("dilili.key") //签名文件路径
+            storePassword "diriri"
+            keyAlias "dilili"
+            keyPassword "diriri"  //签名密码
         }
     }
-}
+    buildTypes {
+        buildTypes {
+            debug {
+                signingConfig signingConfigs.release
+                minifyEnabled false
+                proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+            }
+            release {
+                signingConfig signingConfigs.release
+                minifyEnabled false
+                proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+            }
 
+        }
+    }
+
+    lintOptions {
+        abortOnError false
+    }
+}
 dependencies {
-    compile 'com.android.support:support-v4:21.0.3'
-    compile files('libs/android-async-http-1.4.8.jar')
-    compile files('libs/library-1.0.19.jar')
-    compile files('libs/mpandroidchartlibrary-2-2-4.jar')
+    api 'com.android.support:support-v4:21.0.3'
+    api files('libs/android-async-http-1.4.8.jar')
+    api files('libs/library-1.0.19.jar')
+    api files('libs/mpandroidchartlibrary-2-2-4.jar')
 }
